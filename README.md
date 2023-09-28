@@ -106,7 +106,7 @@ It should show you the version of Ruby ​​installed. If this does not happen 
 Run the following command inside the project folder:
 
 ```
- ruby enumerable_module.rb
+ ruby my_enumerable_module.rb
  ruby my_list_class.rb
 ```
 
