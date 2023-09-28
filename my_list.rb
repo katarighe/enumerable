@@ -12,7 +12,7 @@ class MyList
   end
 end
 
-# TESTS:
+# TESTS
 all?
 list = MyList.new(1, 2, 3, 4)
 puts(list.all? { |e| e < 5 })
